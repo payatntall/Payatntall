@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi , I'm John Edward Acosido
+
+💻 **Aspiring Cybersecurity Analyst | Ethical Hacker | Network Defender**  
+
+I specialize in identifying vulnerabilities, securing systems, and solving complex cybersecurity challenges through hands-on projects. This GitHub serves as my **portfolio of security-focused work**.
 
 <!--
 **payatntall/Payatntall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
