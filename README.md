@@ -4,6 +4,17 @@
 
 I specialize in identifying vulnerabilities, securing systems, and solving complex cybersecurity challenges through hands-on projects. This GitHub serves as my **portfolio of security-focused work**.
 
+## 🚀 Featured Cybersecurity Projects 
+
+
+
+
+## 📜 Certifications
+
+
+
+
+
 <!--
 **payatntall/Payatntall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
