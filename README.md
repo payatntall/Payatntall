@@ -1,4 +1,5 @@
 ## Hi , I'm John Edward Acosido
+Check out my [LinkedIn Profile](https://www.linkedin.com/in/john-edward-acosido-08390b140/)
 
 💻 **Aspiring Cybersecurity Analyst | Ethical Hacker | Network Defender**  
 
